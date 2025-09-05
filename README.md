@@ -86,7 +86,7 @@ This script will:
 - Ingest data from the API and PDF
 - Transform and load data into the star schema
 
-📊 Example Insights
+## 📊 Example Insights
 - 📉 COE prices trend higher in Q2 and Q3, suggesting seasonal spikes
 - 🚘 Category B (larger vehicles) consistently has the highest average COE
 - 📅 Most affordable periods for COE bidding are typically in early Q1
@@ -95,7 +95,7 @@ This script will:
 ➡️ See notebooks/coe_eda.ipynb
  for data exploration and visualization.
 
-📚 What I Learned
+## 📚 What I Learned
 - How to build a modular, production-ready ETL pipeline in Python
 - Parsing unstructured PDF documents into structured data
 - Creating star schemas and dimensional models for analytics
