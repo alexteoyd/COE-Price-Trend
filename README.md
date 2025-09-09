@@ -50,9 +50,8 @@ coe-analysis/
 └── README.md # Project documentation
 
   
----
 
-## 🖥️ How to Run the Project
+  ## 🖥️ How to Run the Project
 
 ### ✅ Prerequisites
 
