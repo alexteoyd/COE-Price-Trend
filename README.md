@@ -36,6 +36,7 @@ It showcases skills in:
 
 ## 🗂️ Project Structure
 
+<pre>
 coe-analysis/
 ├── notebooks/
 │ └── coe_eda.ipynb # Exploratory Data Analysis
